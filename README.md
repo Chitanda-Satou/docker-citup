@@ -1,1 +1,3 @@
 # docker-citup
+
+Installation of citup from conda is tooooooooooooooooo slow...
