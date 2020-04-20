@@ -9,5 +9,6 @@ RUN conda config --add channels http://conda.anaconda.org/dranew \
         -c conda-forge \
         citup \
         numpy \
+        scikit \
         pandas \
     && conda clean --all
